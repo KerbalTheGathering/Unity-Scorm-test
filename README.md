@@ -2,7 +2,7 @@
 A SCORM test created with Unity
 
 Training can be accessed at:
-https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=5e8ba4a1-532a-47b5-9949-8c1b1448695a
+https://cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=3c9fe7e1-a1d9-4996-97b5-e4efd6f7f8bf
 
 This project loads json data from Unity's Resources folder to display on slides authored and serialized in Unity's editor.
 
